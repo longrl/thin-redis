@@ -1,2 +1,2 @@
-# thin-redis
-abbreviated restoration of redis design using golang
+# thin-redis  
+### 前置知识
